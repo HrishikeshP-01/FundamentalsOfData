@@ -43,4 +43,9 @@ Data can be classified into 2 groups:
 - *Data science* – interdisciplinary field which uses scientific methods to extract knowledge & insight from data
 - *Deep learning* – neural network-based ML algorithms
 
+## Data projects are mainly categorized into 3 types:
+- Data pipelines & data staging
+- Data processing & analysis
+- Application development
+
 
