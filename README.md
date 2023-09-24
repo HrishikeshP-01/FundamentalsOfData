@@ -48,4 +48,24 @@ Data can be classified into 2 groups:
 - Data processing & analysis
 - Application development
 
+## Data storage & Backup
+3 main methods of backup
+- Full backup – 
+..* Most comprehensive type of backup
+..* Covers backup for all data within the hard drive
+..* Requires high storage space
+..* Slowest backup speed
+..* Contains lots of duplicate data
+- Differential backup –
+..* Getting a backup of the data that was generated/modified since the last FULL backup
+..* Requires medium-high storage space
+..* Fast backup speed
+..* Contains some duplicate data
+- Incremental backup –
+..* Storing only modifications that were made to the previous backup regardless of whether the previous backup was  a full backup or any other kind of backup
+..* Small storage space
+..* Fastest backup speed
+..* No duplicate data
+
+
 
