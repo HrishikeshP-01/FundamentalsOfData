@@ -18,3 +18,11 @@ Common data collection types
 - *Human generated data* – data from phones, emails, calls, web etc.
 - *Machine generated data* – IoT, medical equipment, satellites etc.
 - *Business generated data* – Banks, stock exchanges, etc.
+
+## Data formats w.r.t storage & processing
+- *Structured* – easiest to search & analyze, often stored in rows & cols
+- *Unstructured* – not contained in row-col database
+- *Semi-structured* – has some defining & consistent characteristics. It doesn’t conform to a structure as rigid as expected with a database. There are some organizational properties called semantic tags or metadata to make it easier to organize but there’s still fluidity in the data. Eg: XML, JSON
+
+You can’t perform analytics on unstructured data. It has to be transformed to structed data.
+
