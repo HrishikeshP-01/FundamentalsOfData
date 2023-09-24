@@ -26,3 +26,21 @@ Common data collection types
 
 You can’t perform analytics on unstructured data. It has to be transformed to structed data.
 
+## Data Terminologies
+Data can be classified into 2 groups:
+- *Primary data* – data a person collects by themselves
+- *Secondary data* – data collected by a third party
+
+- *Database* – repository for data
+- *Data analytics* – processes/technologies used to explore data
+- *Data aggregation* – procedures used to gather data
+- *Metadata* – details about a particular dataset. Data about data
+- *Time series* – analysis studying temporal patterns
+- *Anonymized data* – data in which individual’s identities are kept secret
+- *Augmented reality* – data analytics approach utilizing ML & NLP
+- *Data literacy* - ability to understand, read, create and communicate data as information
+- *File format* – structure used to identify & encode data
+- *Data science* – interdisciplinary field which uses scientific methods to extract knowledge & insight from data
+- *Deep learning* – neural network-based ML algorithms
+
+
