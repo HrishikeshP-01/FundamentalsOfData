@@ -80,6 +80,12 @@ Data migration involves 6 main steps:
 - *Testing* – deploy all required tools, create a test plan with accurate data coverage, design a migration validation engine
 - *Final migration* – execute all data migration steps, ensure proper planning & most importantly get stakeholders to sign off on this plan, execute go-live including migration, define decommissioning plan for all systems that previously stored the data
 
+*What common data source formats are used in ETL process?*
+
+Relational databases, XML, JSON, flat files, may include non-relational database structures
+
+*In streaming ETL pipelines* (a.k.a event-driven ETL), the extracted source data is loaded on-the-fly to the destination database without any intermediate data storage.
+Eg: Sensor readings, customer interaction metadata, app log details
 
 
 
