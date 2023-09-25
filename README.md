@@ -109,3 +109,6 @@ Different organizations employ different forms of data integration but they have
 
 **Data storytelling** – creating a visual, narrative & story behind the data
 
+*Data engineering languages* - SQL, Java, XML, Python, R
+
+
