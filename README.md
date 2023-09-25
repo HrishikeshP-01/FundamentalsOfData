@@ -67,5 +67,20 @@ Data can be classified into 2 groups:
 ..* Fastest backup speed
 ..* No duplicate data
 
+## Data migration & ETL
+Data migration is one of the most complex & critical parts of every data transformation project. 
+
+Eg: Deciding to use a new CRM or ERP
+
+Data migration involves 6 main steps:
+- *Planning* – Identify stakeholders, identify data, determine risk mitigation & backup strategies
+- *Analyzing* the data – explore the data, determine the impact of migration cut-off point, create a data dictionary
+- *Design* – develop “source to target mapping”, a dependency tree on order of migration is required if multiple data sets are to be migrated, determine ETL transformations required
+- *Implementation* – configure tools needed for migration, write migration scripts ensuring best practices
+- *Testing* – deploy all required tools, create a test plan with accurate data coverage, design a migration validation engine
+- *Final migration* – execute all data migration steps, ensure proper planning & most importantly get stakeholders to sign off on this plan, execute go-live including migration, define decommissioning plan for all systems that previously stored the data
+
+
+
 
 
