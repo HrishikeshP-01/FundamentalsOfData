@@ -93,5 +93,11 @@ Different organizations employ different forms of data integration but they have
 - Perform correct ETL mapping to ensure consistency & compatibility
 - Identification of sources, targets & servers
 
+## Advantages of data integration
+- *Makes processes more effective & efficient* – because it improves data quality & authenticity, cuts the as various data is integrated people have a one-stop point to access data thereby saving time. Eliminates the need to log into multiple accounts on multiple sites, copying, reformatting, repurposing data before analysis phase.
+- *Improves collaboration among staff* – employees from different departments use the same std. data from a unified source rather than different sources.
+- Provides *self-service data accessibility* to organizations
+- *Reduces errors & necessity for rework* – a unified repository prevents the access of incorrect/outdated data by employees. Most importantly it eliminates the need to redo reporting by synchronizing data & providing means for real-time reporting.
+- Helps *deliver more valuable data* to an organization
 
 
