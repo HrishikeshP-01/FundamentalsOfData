@@ -87,6 +87,11 @@ Relational databases, XML, JSON, flat files, may include non-relational database
 *In streaming ETL pipelines* (a.k.a event-driven ETL), the extracted source data is loaded on-the-fly to the destination database without any intermediate data storage.
 Eg: Sensor readings, customer interaction metadata, app log details
 
+Different organizations employ different forms of data integration but they have a few things in common.
+**Best practices for data integration are:**
+- Cleanse the data prior to integration
+- Perform correct ETL mapping to ensure consistency & compatibility
+- Identification of sources, targets & servers
 
 
 
