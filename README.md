@@ -100,4 +100,12 @@ Different organizations employ different forms of data integration but they have
 - *Reduces errors & necessity for rework* – a unified repository prevents the access of incorrect/outdated data by employees. Most importantly it eliminates the need to redo reporting by synchronizing data & providing means for real-time reporting.
 - Helps *deliver more valuable data* to an organization
 
+## Data visualization & reporting
+- Importance of data visualization:
+- Allows identification of trends & patterns
+- Helps better understanding of large datasets
+- Makes it easy to conduct analysis & make predictions
+- Helps communicate a message or story
+
+
 
