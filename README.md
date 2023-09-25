@@ -107,5 +107,5 @@ Different organizations employ different forms of data integration but they have
 - Makes it easy to conduct analysis & make predictions
 - Helps communicate a message or story
 
-
+**Data storytelling** – creating a visual, narrative & story behind the data
 
